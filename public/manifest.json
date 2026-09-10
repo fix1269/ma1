@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "AutoMaster Pro - Car Workshop & Service Log",
+  "short_name": "AutoMaster",
+  "description": "Smart Digital Workshop Management and Car Service Log for Auto Centers",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

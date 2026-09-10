@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="#0f172a"/>
+  <circle cx="256" cy="256" r="210" fill="none" stroke="url(#primaryGrad)" stroke-width="12" stroke-dasharray="8 6"/>
+  <!-- Car Silhouette & Wrench -->
+  <path d="M110 320 L130 260 C140 230 180 200 240 195 L330 195 C370 200 395 230 405 260 L425 320 C435 325 440 335 440 345 L440 370 C440 380 430 390 420 390 L405 390 C405 410 390 425 370 425 C350 425 335 410 335 390 L195 390 C195 410 180 425 160 425 C140 425 125 410 125 390 L100 390 C90 390 80 380 80 370 L80 345 C80 335 90 325 110 320 Z" fill="url(#primaryGrad)"/>
+  <!-- Windows -->
+  <path d="M165 260 L240 260 L240 215 L185 215 C170 225 165 245 165 260 Z" fill="#38bdf8" opacity="0.85"/>
+  <path d="M260 260 L355 260 C350 245 345 225 330 215 L260 215 Z" fill="#38bdf8" opacity="0.85"/>
+  <!-- Wheels -->
+  <circle cx="160" cy="380" r="30" fill="#0f172a" stroke="#38bdf8" stroke-width="8"/>
+  <circle cx="370" cy="380" r="30" fill="#0f172a" stroke="#38bdf8" stroke-width="8"/>
+  <!-- Sparks / Gear -->
+  <path d="M245 110 L265 110 L260 145 L275 152 L300 128 L314 142 L290 167 L297 182 L332 177 L332 197 L297 192 L290 207 L314 232 L300 246 L275 222 L260 229 L265 264 L245 264 L250 229 L235 222 L210 246 L196 232 L220 207 L213 192 L178 197 L178 177 L213 182 L220 167 L196 142 L210 128 L235 152 L250 145 Z" fill="url(#goldGrad)" opacity="0.95"/>
+  <circle cx="255" cy="187" r="22" fill="#0f172a"/>
+</svg>
