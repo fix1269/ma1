@@ -1,0 +1,6 @@
+{
+  "name": "AutoMaster Pro - Digital Workshop & Car Service Log",
+  "description": "Zero-server, client-isolated automotive workshop management system with customer digital service logs, automated maintenance reminders, invoice generator, offers carousel, and PWA capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
